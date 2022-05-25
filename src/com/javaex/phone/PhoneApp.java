@@ -7,6 +7,14 @@ public class PhoneApp {
 
 	public static void main(String[] args) {
 
+		/*****************************
+		 * switch case문으로 작성
+		 * case에 괄호가 없어서 변수가 계속 유지된다.
+		 * 변수를 공통으로 쓰거나 다른 이름으로 써야 된다
+		*****************************/
+		
+		
+		
 		// PhoneDao 생성
 		PhoneDao phoneDao = new PhoneDao();
 
