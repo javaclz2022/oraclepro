@@ -1,5 +1,7 @@
 package com.javaex.phone2;
 
+
+
 import java.util.List;
 import java.util.Scanner;
 
@@ -7,6 +9,13 @@ public class PhoneApp {
 
 	public static void main(String[] args) {
 
+		/*****************************
+		 * if문으로 작성
+		 * 괄호안에서 변수가 없어지므로 같은 이름의 변수를 쓸수 있다
+		*****************************/
+		
+		
+		
 		// PhoneDao 생성
 		PhoneDao phoneDao = new PhoneDao();
 
