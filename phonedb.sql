@@ -1,4 +1,3 @@
-
 --계정생성(system 계정으로 접속후 사용해야함)
 create user phonedb identified by phonedb; 
 grant resource, connect to phonedb;
